@@ -23,14 +23,14 @@
 
 
 
----
+----
 
 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode,linux" />
 </p>
----
+----
 
 📊 GitHub Stats
 
@@ -38,21 +38,21 @@
   <img src="https://github-readme-stats.vercel.app/api?username=KuldeepOnGit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   <img src="https://streak-stats.demolab.com?user=KuldeepOnGit&theme=tokyonight&hide_border=true" />
 </p>
----
+----
 
 📈 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KuldeepOnGit&theme=tokyo-night&hide_border=true" />
 </p>
----
+----
 
 🐍 Snake Animation
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
----
+----
 
 🚀 Featured Projects
 
