@@ -23,15 +23,15 @@
 
 # 👨‍💻 About Me
 
-<img align="right" width="300" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
+<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif"/>
 
-- 🎓 Pursuing **BCA in Artificial Intelligence**
-- 💻 Learning **Python, AI & Full Stack Development**
-- 🤖 Interested in **Machine Learning & Data Science**
-- 🚀 Building projects to improve practical skills
-- 📚 Exploring new technologies every day
-- 🎯 Career Goal: **AI Engineer**
-- ⚡ Strong interest in problem solving and innovation
+🎓 Pursuing **BCA in Artificial Intelligence**  
+💻 Passionate about **Python, AI & Web Development**  
+🧠 Exploring **Machine Learning & Data Science**  
+🚀 Building creative and real-world projects  
+📚 Improving problem-solving skills every day  
+🎯 Goal: Become a successful **AI Engineer**  
+⚡ Fun Fact: I love coding late at night 🌙
 
 ---
 
