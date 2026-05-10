@@ -1,144 +1,116 @@
-<!-- ================= HEADER ================= --><p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7F00FF&height=260&section=header&text=Kuldeep%20Maheshwari&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
-</p><!-- ================= TYPING ================= --><h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&size=24&lines=BCA+(AI)+Student;Python+Developer;AI+Enthusiast;Machine+Learning+Learner;Future+AI+Engineer;Building+Cool+Projects+🚀;Open+Source+Learner" />
-</h1>
----
-
-<!-- ================= ABOUT ================= -->👨‍💻 About Me
-
-<img align="right" height="180" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>🎓 BCA (AI) First Year Student
-
-💻 Learning Python, Web Dev & AI
-
-🧠 Interested in Machine Learning & Data Science
-
-🚀 Passionate about building projects
-
-🎯 Goal: Become AI Engineer
-
-📚 Currently improving problem solving skills
-
-⚡ Fun fact: I love coding late night
-
-
-
----
-
-🛠️ Tech Stack
+<!-- ================= PROFESSIONAL HEADER ================= -->
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode,linux" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:00F7FF,50:7F00FF,100:FF00FF&text=Kuldeep%20Maheshwari&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Enthusiast%20|%20Python%20Developer%20|%20BCA(AI)%20Student&descAlignY=55"/>
 </p>
-----
 
-📊 GitHub Stats
+<!-- ================= TYPING EFFECT ================= -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KuldeepOnGit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img src="https://streak-stats.demolab.com?user=KuldeepOnGit&theme=tokyonight&hide_border=true" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=👨‍💻+BCA+(AI)+Student;🐍+Python+Developer;🤖+AI+%26+Machine+Learning+Learner;🚀+Building+Creative+Projects;💡+Future+AI+Engineer;🔥+Open+Source+Explorer"/>
 </p>
+
 ---
 
-📈 Contribution Graph
+<!-- ================= PROFILE VIEWS ================= -->
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KuldeepOnGit&theme=tokyo-night&hide_border=true" />
+  <img src="https://komarev.com/ghpvc/?username=KuldeepOnGit&label=Profile+Views&color=7F00FF&style=for-the-badge"/>
 </p>
+
 ---
 
-🐍 Snake Animation
+# 👨‍💻 About Me
+
+<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+🎓 First Year **BCA (Artificial Intelligence)** Student  
+💻 Passionate about **Python, AI & Web Development**  
+🧠 Exploring **Machine Learning & Data Science**  
+🚀 Love building creative and useful projects  
+📚 Continuously learning new technologies  
+🎯 Goal: Become a Professional AI Engineer  
+⚡ Fun Fact: I enjoy coding late at night 🌙  
+
+---
+
+# 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+
+<img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode,linux,mysql" />
+
 </p>
----
-
-🚀 Featured Projects
-
-📚 Library Management System
-
-🌐 Portfolio Website
-
-🧮 Python Calculator
-
-🤖 AI Mini Projects
-
-
 
 ---
 
-🧠 Currently Learning
+# 🚀 Featured Projects
 
-Data Structures in Python
+<table>
+<tr>
+<td width="50%">
 
-Machine Learning Basics
+## 📚 Library Management System
+🔹 Python based management project  
+🔹 Book issue & return system  
+🔹 User friendly interface  
 
-Web Development Projects
+</td>
 
-Git & GitHub Advanced
+<td width="50%">
 
+## 🌐 Portfolio Website
+🔹 Responsive personal website  
+🔹 Modern UI Design  
+🔹 HTML, CSS & JavaScript  
 
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+## 🤖 AI Mini Projects
+🔹 Face Detection  
+🔹 Chatbot Projects  
+🔹 AI Experiments  
+
+</td>
+
+<td width="50%">
+
+## 🧮 Python Calculator
+🔹 Simple GUI Calculator  
+🔹 Python Logic Practice  
+🔹 Beginner Friendly  
+
+</td>
+</tr>
+</table>
 
 ---
 
-🌐 Connect With Me
+# 📊 GitHub Analytics
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/KuldeepOnLinkdin/">
-    <img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black" />
-  </a>
-  <a href="mailto:maheshwarikuldeep11@gmail.com">
-    <img src="https://img.shields.io/badge/Email-7F00FF?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=KuldeepOnGit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="170" src="https://streak-stats.demolab.com?user=KuldeepOnGit&theme=tokyonight&hide_border=true"/>
+
 </p>
+
 ---
 
-💡 Quote
+# 📈 Contribution Graph
 
 <p align="center">
-  <b>🔥 Consistency + Practice + Patience = Success</b>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KuldeepOnGit&theme=tokyo-night&hide_border=true"/>
 </p>
----
-
-<!-- ================= EXTRA SECTIONS ================= -->🏆 Achievements
-
-🥇 Completed Python Basics
-
-🥈 Created multiple mini projects
-
-🥉 Learning AI step by step
-
-
 
 ---
 
-
-
----
-
-📊 Visitor Count
+# 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KuldeepOnGit&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
----
-
-<!-- REPEATED DECORATIVE SECTIONS TO EXTEND CODE -->🔁 
-
-
-<!-- FOOTER --><p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00F7FF&height=140&section=footer" />
-</p>
-
----
-
-## 💡 Quote
-<p align="center">
-  <b>🚀 "Consistency + Practice = Success"</b>
-</p>
-
-<!-- 🔥 Footer Wave -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00F7FF&height=120&section=footer"/>
-</p>
+  <img
