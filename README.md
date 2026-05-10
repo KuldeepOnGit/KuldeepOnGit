@@ -33,7 +33,7 @@
 # 🛠️ Skills & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,mysql,git,github,vscode,linux"/>
+  <img src="https://skillicons.dev/icons?i= c++,python,html,css,js,github,vscode,linux"/>
 </p>
 
 ---
