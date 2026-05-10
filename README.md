@@ -66,7 +66,11 @@
 # 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KuldeepOnGit&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KuldeepOnGit&bg_color=0d1117&color=00F7FF&line=7F00FF&point=FFFFFF&area=true&hide_border=true" width="95%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KuldeepOnGit&theme=tokyonight"/>
 </p>
 
 ---
