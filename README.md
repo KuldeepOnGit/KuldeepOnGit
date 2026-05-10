@@ -121,7 +121,7 @@
 # 💡 Quote
 
 <p align="center">
-  <b>"🔥 Small Steps Every Day"</b>
+  <b>"🔥 Consistency + Hard Work = Success 🚀"</b>
 </p>
 
 ---
