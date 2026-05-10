@@ -121,7 +121,7 @@
 # 💡 Quote
 
 <p align="center">
-  <b>"Success comes from consistency, discipline, and continuous learning."</b>
+  <b>"🔥 Small Steps Every Day"</b>
 </p>
 
 ---
