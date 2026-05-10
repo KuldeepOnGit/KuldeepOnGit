@@ -15,6 +15,11 @@
 </p>
 
 ---
+# 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KuldeepOnGit&label=PROFILE+VIEWS&color=7F00FF&style=for-the-badge" alt="Profile Views"/>
+</p>
 
 # 👨‍💻 About Me
 
@@ -63,16 +68,11 @@
 
 ---
 
-# 📈 Contribution Activity
+# 📈 Contribution Graph 
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KuldeepOnGit&bg_color=0d1117&color=00F7FF&line=7F00FF&point=FFFFFF&area=true&hide_border=true" width="95%"/>
 </p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KuldeepOnGit&theme=tokyonight"/>
-</p>
-
 ---
 
 # 🧠 Currently Learning
