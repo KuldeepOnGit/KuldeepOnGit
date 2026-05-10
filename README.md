@@ -38,17 +38,6 @@
 
 ---
 
-# 🚀 Projects
-
-| Project | Description |
-|----------|-------------|
-| 📚 Library Management System | Python-based management system for books and users |
-| 🌐 Portfolio Website | Responsive personal portfolio website |
-| 🧮 Python Calculator | Basic calculator application using Python |
-| 🤖 AI Mini Projects | Beginner AI & ML practice projects |
-
----
-
 # 📊 GitHub Statistics
 
 <p align="center">
