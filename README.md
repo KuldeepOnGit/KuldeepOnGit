@@ -21,7 +21,7 @@
   <img src="https://komarev.com/ghpvc/?username=KuldeepOnGit&label=PROFILE+VIEWS&color=7F00FF&style=for-the-badge" alt="Profile Views"/>
 </p>
 # 👨‍💻 About Me
-<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" width="340" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"/>
 🎓 Pursuing **BCA in Artificial Intelligence**  
 💻 Passionate about **Python, AI & Web Development**  
 🧠 Exploring **Machine Learning & Data Science**  
