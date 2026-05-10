@@ -22,7 +22,7 @@
 </p>
 # 👨‍💻 About Me
 
-<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif"/>
+<img align="right" width="320" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"/>
 
 🎓 Pursuing **BCA in Artificial Intelligence**  
 💻 Passionate about **Python, AI & Web Development**  
