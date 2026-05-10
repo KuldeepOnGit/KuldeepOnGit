@@ -23,7 +23,7 @@
 
 
 
-----
+---
 
 🛠️ Tech Stack
 
@@ -38,14 +38,14 @@
   <img src="https://github-readme-stats.vercel.app/api?username=KuldeepOnGit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   <img src="https://streak-stats.demolab.com?user=KuldeepOnGit&theme=tokyonight&hide_border=true" />
 </p>
-----
+---
 
 📈 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KuldeepOnGit&theme=tokyo-night&hide_border=true" />
 </p>
-----
+---
 
 🐍 Snake Animation
 
@@ -66,7 +66,7 @@
 
 
 
-----
+---
 
 🧠 Currently Learning
 
@@ -80,7 +80,7 @@ Git & GitHub Advanced
 
 
 
-----
+---
 
 🌐 Connect With Me
 
@@ -92,14 +92,14 @@ Git & GitHub Advanced
     <img src="https://img.shields.io/badge/Email-7F00FF?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-----
+---
 
 💡 Quote
 
 <p align="center">
   <b>🔥 Consistency + Practice + Patience = Success</b>
 </p>
-----
+---
 
 <!-- ================= EXTRA SECTIONS ================= -->🏆 Achievements
 
@@ -111,18 +111,18 @@ Git & GitHub Advanced
 
 
 
-----
+---
 
 
 
-----
+---
 
 📊 Visitor Count
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=KuldeepOnGit&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
-----
+---
 
 <!-- REPEATED DECORATIVE SECTIONS TO EXTEND CODE -->🔁 
 
@@ -131,7 +131,7 @@ Git & GitHub Advanced
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00F7FF&height=140&section=footer" />
 </p>
 
-----
+---
 
 ## 💡 Quote
 <p align="center">
