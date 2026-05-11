@@ -124,7 +124,13 @@
 
 <!-- ========================= FOOTER ========================= -->
 
+# 🎵 Currently Vibing To
+
+<p align="center">
+  <a href="https://open.spotify.com/">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31w6example&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"/>
+  </a>
+</p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0F2027,50:203A43,100:2C5364&section=footer"/>
 </p>
-🎵 Coding with Lo-fi Music
