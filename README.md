@@ -124,15 +124,7 @@
 
 <!-- ========================= FOOTER ========================= -->
 
-# 🎵 Coding Music
 
-<p align="center">
-
-<a href="https://youtu.be/jfKfPfyJRdk">
-  <img src="https://img.shields.io/badge/🎧%20Play%20Coding%20Music-121212?style=for-the-badge"/>
-</a>
-
-</p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0F2027,50:203A43,100:2C5364&section=footer"/>
 </p>
