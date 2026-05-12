@@ -14,7 +14,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=BCA+(AI)+Student;Python+Developer;AI+%26+Machine+Learning+Learner;Web+Development+Enthusiast;Future+AI+Engineer"/>
 </p>
 
----
+----
 # 👀 Profile Views
 
 <p align="center">
@@ -50,7 +50,7 @@
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 
 </p>
----
+----
 
 # 📊 GitHub Statistics
 
@@ -62,14 +62,14 @@
 
 </p>
 
----
+----
 
 # 📈 Contribution Graph 
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KuldeepOnGit&bg_color=0d1117&color=00F7FF&line=7F00FF&point=FFFFFF&area=true&hide_border=true" width="95%"/>
 </p>
----
+----
 
 # 🧠 Currently Learning
 
@@ -79,7 +79,7 @@
 - Git & GitHub
 - Problem Solving
 
----
+----
 
 # 🏆 Achievements
 
@@ -88,7 +88,7 @@
 - ✅ Started AI & ML Learning Journey
 - ✅ Active GitHub Learner
 
----
+----
 
 # 🌐 Connect With Me
 
@@ -112,7 +112,7 @@
 
 </p>
 
----
+----
 
 # 💡 Quote
 
@@ -120,7 +120,7 @@
   <b>"🔥 Consistency + Hard Work = Success 🚀"</b>
 </p>
 
----
+----
 
 <!-- ========================= FOOTER ========================= -->
 
