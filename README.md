@@ -17,7 +17,7 @@
 ---
 # 👀 Profile Views
 
-<p align="center">
+<p align ="center">
   <img src="https://komarev.com/ghpvc/?username=KuldeepOnGit&label=PROFILE+VIEWS&color=7F00FF&style=for-the-badge" alt="Profile Views"/>
 </p>
 # 👨‍💻 About Me
