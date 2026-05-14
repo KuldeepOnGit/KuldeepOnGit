@@ -1,19 +1,50 @@
-<!-- ========================= HEADER ========================= -->
+<!-- ========================= FUTURISTIC HEADER ========================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F2027,50:203A43,100:2C5364&text=Kuldeep%20Maheshwari&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Developer%20|%20AI%20Enthusiast%20|%20BCA(AI)%20Student&descAlignY=58"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:050816,25:0F2027,50:203A43,75:2C5364,100:00F7FF&text=KULDEEP%20MAHESHWARI&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Python%20Developer%20•%20AI%20Enthusiast%20•%20BCA(AI)%20Student&descAlignY=58&descSize=18"/>
 </p>
 
 <!-- ========================= INTRO ========================= -->
 
 <h3 align="center">
-  Passionate about Artificial Intelligence, Python Development & Building Real-World Projects 🚀
+  🚀 Passionate About AI, Python & Building Real-World Projects 💻
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=BCA+(AI)+Student;Python+Developer;AI+%26+Machine+Learning+Learner;Web+Development+Enthusiast;Future+AI+Engineer"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=👨‍💻+BCA+(AI)+Student;🐍+Python+Developer;🤖+AI+%26+Machine+Learning+Learner;🌐+Web+Development+Enthusiast;🚀+Future+AI+Engineer;🔥+Consistency+%2B+Practice+%3D+Success"/>
 </p>
 
+<!-- ========================= PROFILE BADGES ========================= -->
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Code-Learn-Build-0F2027?style=for-the-badge&logo=github"/>
+
+<img src="https://img.shields.io/badge/Python-Developer-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/AI-Enthusiast-7F00FF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Open%20Source-Learner-00F7FF?style=for-the-badge&logo=opensourceinitiative&logoColor=black"/>
+
+</p>
+
+<!-- ========================= CODING GIF ========================= -->
+
+<p align="center">
+  <img width="450" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+</p>
+
+<!-- ========================= TERMINAL STYLE ========================= -->
+
+```bash
+> Initializing Profile...
+
+✔ Loading Python Skills
+✔ Loading AI Knowledge
+✔ Connecting GitHub
+✔ Activating Developer Mode
+
+Status : Ready To Build 🚀
 ---
 # 👀 Profile Views
 
