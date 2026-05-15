@@ -12,7 +12,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=BCA+(AI)+Student;Python+Developer;AI+%26+Machine+Learning+Learner;Web+Development+Enthusiast;Future+AI+Engineer"/>
 </p>
 
----
+----
 # 👀 Profile Views
 
 <p align ="center">
