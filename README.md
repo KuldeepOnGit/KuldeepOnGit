@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F2027,50:203A43,100:2C5364&text=Kuldeep%20Maheshwari&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Developer%20|%20AI%20Enthusiast%20|%20BCA(AI)%20Student&descAlignY=58"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:38BDF8,50:0EA5E9,100:0284C7&text=Kuldeep%20Maheshwari&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Developer%20|%20AI%20Enthusiast%20|%20BCA(AI)%20Student&descAlignY=58"/>
 </p>
-
 <!-- ========================= INTRO ========================= -->
 
 <h3 align="center">
